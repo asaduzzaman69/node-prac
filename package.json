@@ -1,0 +1,15 @@
+{
+  "name": "node-prac",
+  "version": "1.0.0",
+  "description": "I will practice basic node and express in this project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Asaduzzaman Himel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
